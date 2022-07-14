@@ -5,5 +5,5 @@
 🚀 IT Explorer
 
 <a href="https://github.com/talesricr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talesricr&layout=compact&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talesricr&layout=compact"/>
 </a>
