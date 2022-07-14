@@ -1,6 +1,6 @@
 ### Hi! I'm Tales! 👋🏼
 
-📍 Brazil<br>
+🗺 Brazil<br>
 📚 Computer Science<br>
 🚀 IT Explorer
 
