@@ -3,6 +3,9 @@
 *  🗺 I'm from Brazil and live here<br>
 *  📚 I'm studying Computer Science<br>
 *  🚀 I love to explore new technologies
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=jvruas&style=plastic&label=Views"><img>
+</p>
 
 ## My Github Stats:
 <div align="center">
