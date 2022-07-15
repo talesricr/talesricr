@@ -2,7 +2,7 @@
 
 *  🗺 I'm from Brazil and live here<br>
 *  📚 I'm studying Computer Science<br>
-*  🚀 I love to explore new tecnologies
+*  🚀 I love to explore new technologies
 
 ## My Github Stats:
 <div align="center">
