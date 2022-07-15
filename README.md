@@ -1,8 +1,10 @@
-### Hi! I'm Tales! 👋🏼
+## Hi! I'm Tales! 👋🏼
 
-🗺 Brazil<br>
-📚 Computer Science<br>
-🚀 IT Explorer
+*  🗺 I'm from Brazil and live here<br>
+*  📚 I'm studying Computer Science<br>
+*  🚀 I love to explore new tecnologies
+
+## My Github Stats:
 <div align="center">
 <a href="https://github.com/talesricr">
   <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talesricr&layout=compact&theme=radical""/>
