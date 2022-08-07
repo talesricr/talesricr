@@ -4,7 +4,7 @@
 *  📚 I'm studying Computer Science<br>
 *  🚀 I love to explore new technologies
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=talesricr&style=plastic&label=Views"><img>
+<img height="0em" src="https://komarev.com/ghpvc/?username=talesricr&style=plastic&label=Views"><img>
 </p>
 
 ## My Github Stats:
