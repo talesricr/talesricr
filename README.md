@@ -6,7 +6,7 @@
 <p align="right">
 <img height="0em" src="https://komarev.com/ghpvc/?username=talesricr&style=plastic&label=Views"><img>
 </p>
-<!---
+
 ## My Github Stats:
 <div align="center">
 <a href="https://github.com/talesricr">
@@ -15,4 +15,4 @@
 <a href="https://github.com/talesricr">
   <img align="center" height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=talesricr&show_icons=true&theme=radical&count_private=true&hide=issues,stars"/>
 </a></div>
--->
+
