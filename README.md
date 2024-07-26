@@ -1,7 +1,7 @@
 ## Hi! I'm Tales! 👋🏼
 
 *  🗺 I'm from Brazil and live here<br>
-*  📚 Current studying: Linux, Rust, Unity<br>
+*  📚 Current studying: Linux, Rust, Software Engineering<br>
 *  🚀 I love to explore new technologies
 <p align="right">
 <img height="0em" src="https://komarev.com/ghpvc/?username=talesricr&style=plastic&label=Views"><img>
